@@ -1,6 +1,5 @@
 # onboarding-test
 Description of my repo
 
-Make first change.
-
+Changed my mind about the first change.
 
